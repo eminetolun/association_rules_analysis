@@ -13,7 +13,7 @@ pd.set_option('display.width', 170)
 
 
 # reading csv
-df = pd.read_csv("D:\github\deneme\deneme5/bread basket.csv")
+df = pd.read_csv(".../bread basket.csv")
 
 # examining the dataset
 def check_df(dataframe, head=5):
